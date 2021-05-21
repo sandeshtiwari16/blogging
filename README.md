@@ -1,6 +1,6 @@
 # Blogging
 
-[To see the working of website](https://sandeshapp.000webhostapp.com/)
+[Demo](https://sandeshapp.000webhostapp.com/)
 
 _Front-end and Business logic Blogging similar to www.medium.com_
 
