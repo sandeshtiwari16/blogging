@@ -4,6 +4,8 @@
 
 _Front-end and Business logic Blogging similar to www.medium.com_
 
+`get started`, `read more`, and `about us` buttons are functional.
+
 ### Description
 
 - This Project is an extension of the HTML-CSS Medium Blogging clone webpage. 
